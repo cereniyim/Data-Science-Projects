@@ -1,3 +1,7 @@
+Moved to https://github.com/cereniyim/ECommerce-Sales-Data-EDA
+
+---
+
 In this notebook several questions will be investigated and answered, using a fashion retailer's e-commerce sales data. 
 This retailer's focus is on menswear and providing high-quality and well-fitted t-shirts, trousers, jeans and shorts to men. 
 Dataset represents real sales data between November 1st, 2018 - April 30th, 2019 and it is anonymized for confidentiality.

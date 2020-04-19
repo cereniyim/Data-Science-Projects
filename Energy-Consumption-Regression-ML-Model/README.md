@@ -1,3 +1,7 @@
+Moved to https://github.com/cereniyim/Energy-Consumption-Regression-ML-Model
+
+---
+
 This notebook aims to predict a building's energy consumption over 2017 and 2018 using the data from 2016 in 4 different consumpiton categories (electricity, chilled water, steam, hot water) using [ASHRAE](https://www.ashrae.org/) data, which is our problem statement as well.
 
 This is a supervised machine learning model, meaning based on the columns available in the datasets and data from 2016, we are going to train the model to predict an energy consumption of a building in each category. Since, consumption values are labeled as meter_reading and they are continuous, we are going to apply regression techniques to generate predictions on meter_reading.

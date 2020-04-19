@@ -1,3 +1,7 @@
+Moved to https://github.com/cereniyim/Plotly-Energy-Consumption-EDA
+
+---
+
 This notebook does a detailed analysis about ASHRAE's energy consumption data available in [Kaggle](https://www.kaggle.com/c/ashrae-energy-prediction).
 
 Three csv files analyzed, in total 20 million rows:

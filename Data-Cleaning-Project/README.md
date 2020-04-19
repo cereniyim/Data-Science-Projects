@@ -1,3 +1,7 @@
+Moved to https://github.com/cereniyim/Data-Cleaning-Project
+
+---
+
 In this project, I cleaned and reshaped [USA unemployement data](https://www.ers.usda.gov/data-products/county-level-data-sets/download-data/)
 
 Data contains civic labor force, employment and unemployment data for US counties over 2007-2017
